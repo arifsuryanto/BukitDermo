@@ -12,7 +12,7 @@
     <script src="js/slider.js"></script>
     <!--[if lt IE 9]>
 <script src="js/html5.js"></script>
-<link rel="stylesheet" href="css/ie.css"> askdnasjdklasjd
+<link rel="stylesheet" href="css/ie.css"> hello
 <![endif]-->
 </head>
 
