@@ -8,7 +8,7 @@
                     <div class="grid_7 suffix_1 prefix_1 alpha">
                         <div class="copyright"> &copy; 2020 <strong class="footer-logo">AgroPlus</strong>
                             <div>Website Template by <a target="_blank" href="http://www.templatemonster.com/">Templatemonster.com</a></div>
-                            <div>Website Developed by <a target="_blank" href="">KKN UPN V YK 74.37B</a></div>
+                            <div>Website xhghffvjDeveloped by <a target="_blank" href="">KKN UPN V YK 74.37B</a></div>
 
                         </div>
                     </div>
