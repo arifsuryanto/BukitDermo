@@ -66,6 +66,9 @@ html {
 	overflow:hidden;
 	position:relative;
 }
+/*.wrapper:hover {
+	transform: scale(2);
+}*/
 .extra-wrap {
 	overflow:hidden;
 	display:block;
@@ -622,3 +625,4 @@ footer a {
 .social-list li a:hover {
 	background:#b30404;
 }
+

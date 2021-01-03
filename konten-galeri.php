@@ -5,6 +5,54 @@
         <div class="wrapper">
             <div class="grid_24 content-bg">
                 <div class="wrapper">
+                <h2 style="text-align: center;">GALERI</h2>
+                    <article class="grid_24 prefix_1 alpha omega">
+
+                        <div class="wrapper indent-bot">
+                            <div class="grid_6 alpha prefix_1 suffix_1">
+                                <div class="wrapper"> <img src="images/page2-img1.jpg" alt="" class="img-indent" style="width: 100%">
+                                    
+                                </div>
+                            </div>
+                            <div class="grid_6 suffix_1">
+                                <div class="wrapper">
+                                <img src="images/page2-img2.jpg" alt="" class="img-indent" style="width: 100%">
+                                </div>
+                            </div>
+                            <div class="grid_6 omega">
+                                <div class="wrapper"> <img src="images/page2-img3.jpg" alt="" class="img-indent" style="width: 100%">
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="wrapper indent-bot">
+                            <div class="grid_6 alpha prefix_1 suffix_1">
+                                <div class="wrapper"> <img src="images/page2-img1.jpg" alt="" class="img-indent" style="width: 100%">
+                                    
+                                </div>
+                            </div>
+                            <div class="grid_6 suffix_1">
+                                <div class="wrapper"> <img src="images/page2-img2.jpg" alt="" class="img-indent" style="width: 100%">
+                                    
+                                </div>
+                            </div>
+                            <div class="grid_6 omega">
+                                <div class="wrapper"> <img src="images/page2-img3.jpg" alt="" class="img-indent" style="width: 100%">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- <section id="content">
+    <div class="container_24">
+        <div class="wrapper">
+            <div class="grid_24 content-bg">
+                <div class="wrapper">
                     <article class="grid_14 suffix_1 prefix_1 alpha">
                         <h2>Agro technology:</h2>
                         <div class="wrapper p2 hr-border-1"> <img src="images/page3-img1.jpg" alt="" class="img-indent">
@@ -54,4 +102,4 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->

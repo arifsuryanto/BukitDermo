@@ -7,19 +7,13 @@
                 <div class="wrapper">
                     <article class="grid_6 suffix_1 prefix_1 alpha">
                         <h2>Contact info:</h2>
-                        <p class="p1"> <strong class="str-2"> AgroPlus </strong>
+                        <p class="p1"> <strong class="str-2"> Agrowisata Bukit Dermo </strong>
                             <dl class="adress">
-                                <dt>8901 Marmora Road, Glasgow, D04 89GR</dt>
-                                <dd><span>Telephone:</span><b>+1 959 603 6035</b></dd>
-                                <dd><span>Fax:</span><b>+1 504 889 9898</b></dd>
-                                <dd><span>Email:</span><a href="#">mail@thomsander.com</a></dd>
+                                <dt>Nawungan 1, Lanteng 1, Selopamioro, Kec. Imogiri, Bantul, Daerah Istimewa Yogyakarta 55782</dt>
+                                <dd><span>Telephone:</span><b>+62</b></dd>
+                                <dd><span>Email:</span><a href="#">@gmail.com</a></dd>
                             </dl>
-                            <dl class="adress">
-                                <dt>9863 Mill Road, Cambridge, MG09 99HT</dt>
-                                <dd><span>Telephone:</span><b>+1 959 603 6035</b></dd>
-                                <dd><span>Fax:</span><b>+1 504 889 9898</b></dd>
-                                <dd><span>Email:</span><a href="#">mail@thomsander.com</a></dd>
-                            </dl>
+                            
                             <p></p>
                     </article>
                     <article class="grid_15 suffix_1 omega">

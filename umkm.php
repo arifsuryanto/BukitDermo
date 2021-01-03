@@ -15,7 +15,6 @@
 <link rel="stylesheet" href="css/ie.css"> 
 <![endif]-->
 </head>
-tambah 1 lagi
 <body>
     <div class="main-bg">
         <?php include 'header.php'; ?>
