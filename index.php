@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
-    <title>AgroPlus</title>
-    <meta charset="utf-8">
+    <title>Bukit Dermo</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="stylesheet" href="css/style.css">
     <script src="js/jquery-1.7.1.min.js"></script>
     <script src="js/superfish.js"></script>

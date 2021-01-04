@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>AgroPlus</title>
+    <title>Bukit Dermo</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/style.css">
     <script src="js/jquery-1.7.1.min.js"></script>

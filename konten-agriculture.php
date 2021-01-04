@@ -9,78 +9,78 @@
                         <h2>Our products:</h2>
                         <div class="wrapper indent-bot">
                             <div class="grid_7 alpha">
-                                <div class="wrapper"> <img src="images/page2-img1.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="images/produk-agro/durian.jpg" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Carrot</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#">Durian</a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
                             </div>
                             <div class="grid_7">
-                                <div class="wrapper"> <img src="images/page2-img2.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="images/produk-agro/alpukat.jpg" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Indian Eggplant</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#">Alpukat</a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
                             </div>
                             <div class="grid_7 omega">
-                                <div class="wrapper"> <img src="images/page2-img3.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="images/produk-agro/bawang.jpg" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Wheat</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#">Bawang Merah Glowing</a> </dt>
+                                        <dd></dd>
                                     </dl>
                                 </div>
                             </div>
                         </div>
                         <div class="wrapper indent-bot">
                             <div class="grid_7 alpha">
-                                <div class="wrapper"> <img src="images/page2-img4.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="images/produk-agro/jagung.jpg" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Cucumbers</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#">Jagung</a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
                             </div>
                             <div class="grid_7">
-                                <div class="wrapper"> <img src="images/page2-img5.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="images/produk-agro/RAMBUTAN.jpg" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Corn</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#">Rambutan</a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
                             </div>
                             <div class="grid_7 omega">
-                                <div class="wrapper"> <img src="images/page2-img6.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="images/produk-agro/kelengkeng.jpg" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Peppers</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#">Kelengkeng</a> </dt>
+                                        <dd></dd>
                                     </dl>
                                 </div>
                             </div>
                         </div>
                         <div class="wrapper hr-border-1 indent-bot-2">
                             <div class="grid_7 alpha">
-                                <div class="wrapper"> <img src="images/page2-img1.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Strawberries</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#"></a> </dt>
+                                        <dd></dd>
                                     </dl>
                                 </div>
                             </div>
                             <div class="grid_7">
-                                <div class="wrapper"> <img src="images/page2-img2.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="images/produk-agro/SIRSAK.jpg" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Cabbage</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#">Sirsak</a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
                             </div>
                             <div class="grid_7 omega">
-                                <div class="wrapper"> <img src="images/page2-img3.jpg" alt="" class="img-indent">
+                                <div class="wrapper"> <img src="" alt="" class="img-indent">
                                     <dl class="extra-wrap def-list-1">
-                                        <dt> <a href="#">Pumpkins</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. Cras mattis tempor eros. </dd>
+                                        <dt> <a href="#"></a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
                             </div>
