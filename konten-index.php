@@ -7,34 +7,34 @@
                 <div class="wrapper">
                     <div class="grid_16 suffix_1 prefix_1 alpha">
                         <article class="indent-bot">
-                            <h2>Our products:</h2>
+                            <h2>Hasil Panen Kami :</h2>
                             <div class="wrapper hr-border-1">
-                                <div class="grid_4 alpha"> <img src="images/page1-img1.jpg" class="img-indent-bot" alt="">
+                                <div class="grid_4 alpha"> <img src="images/produk-agro/durian.jpg" class="img-indent-bot" alt="">
                                     <dl class="def-list-1">
-                                        <dt> <a href="#">Tomatoes</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. </dd>
+                                        <dt> <a href="#">Durian</a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
-                                <div class="grid_4"> <img src="images/page1-img2.jpg" class="img-indent-bot" alt="">
+                                <div class="grid_4"> <img src="images/produk-agro/jagung.jpg" class="img-indent-bot" alt="">
                                     <dl class="def-list-1">
-                                        <dt> <a href="#">Indian Eggplant</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. </dd>
+                                        <dt> <a href="#">Jagung</a> </dt>
+                                        <dd></dd>
                                     </dl>
                                 </div>
-                                <div class="grid_4"> <img src="images/page1-img3.jpg" class="img-indent-bot" alt="">
+                                <div class="grid_4"> <img src="images/produk-agro/kelengkeng.jpg" class="img-indent-bot" alt="">
                                     <dl class="def-list-1">
-                                        <dt> <a href="#">Cabbage</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. </dd>
+                                        <dt> <a href="#">Kelengkeng</a> </dt>
+                                        <dd> </dd>
                                     </dl>
                                 </div>
-                                <div class="grid_4 omega"> <img src="images/page1-img4.jpg" class="img-indent-bot" alt="">
+                                <div class="grid_4 omega"> <img src="images/produk-agro/alpukat.jpg" class="img-indent-bot" alt="">
                                     <dl class="def-list-1">
-                                        <dt> <a href="#">Potatoes</a> </dt>
-                                        <dd> Vivamus hendrerit mauris ut du gravida ut viverra lectus tincidunt. </dd>
+                                        <dt> <a href="#">Alpukat</a> </dt>
+                                        <dd></dd>
                                     </dl>
                                 </div>
                             </div>
-                            <div class="alignright"> <a href="#" class="button">Read more</a> </div>
+                            <div class="alignright"> <a href="agriculture.php" class="button">Read more</a> </div>
                         </article>
                         <article class="banner-box">
                             <div class="inner">
@@ -52,13 +52,11 @@
                     </div>
                     <div class="grid_5 suffix_1 omega">
                         <article class="indent-bot-1">
-                            <h2 class="heading-1">Welcome!</h2>
-                            <p class="p1"> <strong> AgroPlus is one of Free website templates created by TemplateMonster.com team.
-                                </strong> </p>
-                            <p class="hr-border-1"> This website template is optimized for 1280X1024 screen resolution. It is also
-                                XHTML &amp; CSS valid. The PSD source files of this AgroPlus template are available for free for the
-                                registered members of TemplateMonster.com. Feel free to get them! </p>
-                            <div class="alignright"> <a href="#" class="button">Read more</a> </div>
+                            <h3 class="heading-3"> <strong style="color:#f0f0f0;">Agrowisata Bukit Dermo
+                                </strong> </h3>
+                            <p class="hr-border-1" style="color:white"> adalah suatu kawasan di area lahan kritis di dusun Nawungan Selopamioro Imogiri Bantul Yogyakarta.
+                            </p>
+                            <!-- <div class="alignright"> <a href="#" class="button">Read more</a> </div> -->
                         </article>
                         <article>
                             <h2>Our programs:</h2>

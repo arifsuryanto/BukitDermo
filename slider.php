@@ -2,15 +2,14 @@
     <div class="mp-slider">
         <ul class="items">
             <li><img src="images/slide-1.jpg" alt="">
-                <div class="banner mp-ban-1"><span class="row-1">putting our</span><span class="row-2">heart &amp;
-                        soul</span><span class="row-3">into the field</span></div>
+                <div class="banner mp-ban-1"><span class="row-1">Selamat Datang di</span><span class="row-2">Agrowisata</span><span class="row-3">bukit dermo</span></div>
             </li>
             <li><img src="images/slide-2.jpg" alt="">
-                <div class="banner mp-ban-2"><span class="row-1">we have a strong</span><span class="row-2">agriculture</span><span class="row-3">heritage</span></div>
+                <div class="banner mp-ban-2"><span class="row-1">nantikan wajah baru</span><span class="row-2">bukit dermo</span><span class="row-3">2021</span></div>
             </li>
             <li><img src="images/slide-3.jpg" alt="">
-                <div class="banner mp-ban-3"><span class="row-1">growing clean</span><span class="row-2">and full of
-                        health</span><span class="row-3">products</span></div>
+                <div class="banner mp-ban-3"><span class="row-1">kawasan maju </span><span class="row-2">di bidang
+                    </span><span class="row-3">Pertanian</span></div>
             </li>
         </ul>
     </div>
