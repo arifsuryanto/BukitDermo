@@ -9,13 +9,16 @@
                         <h2>Contact info:</h2>
                         <p class="p1"> <strong class="str-2"> Agrowisata Bukit Dermo </strong>
                             <dl class="adress">
-                                <dt>Nawungan 1, Lanteng 1, Selopamioro, Kec. Imogiri, Bantul, Daerah Istimewa Yogyakarta 55782</dt>
-                                <dd><span>Telephone:</span><b>+62</b></dd>
-                                <dd><span>Email:</span><a href="#">@gmail.com</a></dd>
+                                <dt>Nawungan 1, Selopamioro, Kec. Imogiri, Bantul, Daerah Istimewa Yogyakarta 55782</dt>
+                                <dd><span>Telephone:</span><b>0812-2652-3473</b></dd>
+                                <dd><a class="link" href="https://goo.gl/maps/acmMgek1WehoRWVy8">Lihat Peta</a> </dd>
                             </dl>
                             
                             <p></p>
                     </article>
+                   
+    
+
                     <article class="grid_15 suffix_1 omega">
                         <h2>Contact form:</h2>
                         <form action="#" id="contact-form" method="post">

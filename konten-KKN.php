@@ -17,8 +17,8 @@
                   tincidunt, tellus eget tristique cursus, orci mi iaculis sem. </blockquote> -->
                 <div class="indent-right"> <span class="author">AB 74.37 B</span></div>
                 <br>
-                Instagram&nbsp;: @kknuhuyyy_<br>
-                Youtube&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: KKN UPNVYK AB 74.37 B
+                Instagram&nbsp;: <a class="link" href="https://www.instagram.com/kknuhuyyy_/">@kknuhuyyy_</a><br>
+                Youtube&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <a class="link" href="https://www.youtube.com/channel/UCwfah-3lCIBxoMq2IT0855w">KKN UPNVYK AB 74.37 B</a> 
 
               </div>
               <img src="images/tim37.png" alt="" style="position: absolute; right: 0; bottom: 0; height: 180px">
